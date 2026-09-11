@@ -18,9 +18,12 @@ My projects live under **[@ryuclub](https://github.com/ryuclub)**:
 | | |
 |---|---|
 | **[roster](https://github.com/ryuclub/roster)** | AI agent for GitHub-driven development management — multi-LLM providers, Slack slash commands, project memory. Go, deployable via Helm. |
+| **[ai-workflow](https://github.com/ryuclub/ai-workflow)** | PR factory — turns a JIRA or Linear ticket into a GitHub Issue, a human review gate, an implementation, and a pull request. Real-time pipeline dashboard. Go + React. |
 | **[market-monitor](https://github.com/ryuclub/market-monitor)** | Crypto market dashboard — Binance real-time candlesticks, indicators, signal scoring, backtesting. Pure frontend, zero dependencies. |
 | **[video-studio](https://github.com/ryuclub/video-studio)** | Article-to-video pipeline. Every frame drawn in code as SVG — no stock footage compositing. |
 | **[telegram-bot](https://github.com/ryuclub/telegram-bot)** | Telegram group moderation — emoji join verification, Claude-powered spam classification. |
+
+| **[helea](https://github.com/ryuclub/helea)** | Open-source web remake of DarkEden, a classic isometric 2D MMORPG — Babylon.js client on an opendarkeden server. |
 
 ### Stack
 
