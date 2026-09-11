@@ -29,4 +29,4 @@ My projects live under **[@ryuclub](https://github.com/ryuclub)**:
 
 Also: Ethereum node operations, embedded systems (STM32), Flutter / Swift / Kotlin.
 
-📧 45online@gmail.com
+📄 [Resume (PDF)](Cale_Collins_DevOps_Engineer_2026.pdf)　·　📧 45online@gmail.com
